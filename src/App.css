@@ -1,7 +1,8 @@
 .App {
   text-align: center;
   background-color: black;
-  height: 100%;
+  width:auto;
+  height:auto;
 }
 
 h2{
@@ -71,7 +72,4 @@ section.pricing {
     opacity: 1;
   }
 }
-.container{
-  width:auto;
-  height:auto;
-}
+
